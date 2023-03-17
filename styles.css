@@ -28,6 +28,12 @@ p {
   font-family: sans-serif;
   size: 12px;
 }
+img{ 
+  text-align: center;
+}
 ul {
   font-size: 20px;
+}
+body{
+  background-color: rgba(189, 223, 223, 0.46);
 }
