@@ -23,9 +23,6 @@ p {
   font-family: sans-serif;
   font-size: 20px;
 }
-img{ 
-  align-content: center;
-}
 ul {
   font-size: 20px;
 }
@@ -36,7 +33,7 @@ body{
   background-color: rgba(189, 223, 223, 0.46);
 }
 .column {
-  width: 300px;
+  width: 800px;
   float: center;
 }
 .professional {
