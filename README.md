@@ -1,6 +1,6 @@
-# _Epicodus Independent Project_
+# _{Epicodus Independent Project}_
 
-#### By _Jessica Hattig_
+#### By _**{Jessica Hattig}**_
 
 #### _Week 1: Git, HTML, and CSS_
 
