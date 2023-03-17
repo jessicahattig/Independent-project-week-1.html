@@ -1,8 +1,8 @@
-# _{ Epicodus Independent Project}_
+# _Epicodus Independent Project_
 
-#### By _**{Jessica Hattig}**_
+#### By _**Jessica Hattig**_
 
-#### _{Week 1: Git, HTML, and CSS}_
+#### _Week 1: Git, HTML, and CSS_
 
 ## Technologies Used
 
@@ -12,7 +12,7 @@
 
 ## Description
 
-_{This final project demonstrates my proficiency using software developement Git, HTML and CSS skills._
+_This final project demonstrates my proficiency using software developement Git, HTML and CSS skills._
 
 ## Setup/Installation Requirements
 
@@ -20,7 +20,7 @@ _{This final project demonstrates my proficiency using software developement Git
 
 ## Known Bugs
 
-* _There is extra file on the repo labeled ".DS_Store", that needs to be deleted._
+* _None author is aware of._
 
 
 ## License
