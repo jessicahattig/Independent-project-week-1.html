@@ -35,8 +35,9 @@ ol {
 body{
   background-color: rgba(189, 223, 223, 0.46);
 }
-.personal {
-  color: #021479;
+.column {
+  width: 300px;
+  float: center;
 }
 .professional {
   color: rgba(31, 119, 207, 0.929);
