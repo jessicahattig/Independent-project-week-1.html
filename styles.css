@@ -58,3 +58,4 @@ body{
   padding: 30px;
   border: dashed;
   border-width: 20px;
+  box-sizing: border-box;

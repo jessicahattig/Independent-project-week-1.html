@@ -20,7 +20,7 @@ _This final project demonstrates my proficiency using software developement Git,
 
 ## Known Bugs
 
-* _Code might have unneccessary additional characters._
+* _Code might have unneccessary characters that may be deleted. Unneccessary characters do not effect website display or function._
 
 
 ## License
