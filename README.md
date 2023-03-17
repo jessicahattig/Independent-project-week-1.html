@@ -20,7 +20,7 @@ _This final project demonstrates my proficiency using software developement Git,
 
 ## Known Bugs
 
-* _None author is aware of._
+* _Code might have unneccessary additional characters._
 
 
 ## License
