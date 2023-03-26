@@ -18,7 +18,9 @@ _This final project demonstrates my proficiency using software developement Git,
 
 ## Setup/Installation Requirements
 
-* _NEED TO INCLUDE_
+* _Clone this repository to your desktop._
+* _Navigate to the directory titled "index.html"
+* _Open the file "index.html" in your browser_
 
 ## Known Bugs
 
