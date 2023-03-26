@@ -1,4 +1,4 @@
-# _Epicodus Independent Project_
+# _Portfolio Project_
 
 #### By _**Jessica Hattig**_
 
@@ -14,13 +14,15 @@
 
 ## Description
 
-_This final project demonstrates my proficiency using software developement Git, HTML and CSS skills._
+_This portfolio exhibits my proficiency using Git, HTML and CSS software developer skills._
 
 ## Setup/Installation Requirements
 
 * _Clone this repository to your desktop._
-* _Navigate to the directory titled "index.html"
+* _Navigate to the directory titled "index.html"_
 * _Open the file "index.html" in your browser_
+
+NEED TO ADD GITHUB PAGE LINK<a href="doc:introduction"target="_blank">Introduction</a>
 
 ## Known Bugs
 
