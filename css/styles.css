@@ -43,14 +43,14 @@ body{
   background-color: rgba(168, 241, 241, 0.46);
 }
 .professional {
-  color: rgba(7, 60, 113, 0.929);
+  color: rgba(6, 66, 127, 0.969);
 }
 .sidebar {
   width: 100%;
-  float: right;
-  background-color: rgba(6, 66, 127, 0.969);;
+  float: left;
+  background-color: rgba(6, 66, 127, 0.969);
   color: white;
-  font-size: 25px
+  font-size: 50px;
 }
 .center {
   display: block;
