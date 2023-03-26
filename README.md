@@ -19,14 +19,14 @@ _This portfolio exhibits my proficiency using Git, HTML and CSS software develop
 ## Setup/Installation Requirements
 
 * _Clone this repository to your desktop._
-* _Navigate to the directory titled "index.html"_
+* _Navigate to the directory titled "Portfolio-project"_
 * _Open the file "index.html" in your browser_
 
 NEED TO ADD GITHUB PAGE LINK<a href="doc:introduction"target="_blank">Introduction</a>
 
 ## Known Bugs
 
-* _Code might have unneccessary characters that may be deleted._
+* _No known bugs._
 
 
 ## License
