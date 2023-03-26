@@ -21,6 +21,7 @@ h2 {
 h3 {
   font-family: sans-serif;
   font-size: 30px;
+  
 }
 h4 {
   font-family: sans-serif;
@@ -42,10 +43,10 @@ ol {
 body{
   background-color: rgba(168, 241, 241, 0.46);
 }
-.professional {
+.aboutme {
   color: rgba(6, 66, 127, 0.969);
 }
-.sidebar {
+.topcompanies {
   width: 100%;
   float: left;
   background-color: rgba(6, 66, 127, 0.969);
