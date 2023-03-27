@@ -19,8 +19,8 @@ _This portfolio exhibits my proficiency in Git, HTML and CSS._
 ## Setup/Installation Requirements
 
 * _Clone this repository to your desktop._
-* _Navigate to the directory titled "Portfolio-project"_
-* _Open the file "index.html" in your browser_
+* _Navigate to the directory titled "Portfolio-project"._
+* _Open the file "index.html" in your browser._
 
 [GitHub-Pages](https://github.com/jessicahattig/Portfolio-project.git)
 
