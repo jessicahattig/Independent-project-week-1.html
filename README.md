@@ -2,7 +2,7 @@
 
 #### By _**Jessica Hattig**_
 
-#### _Week 1: Git, HTML, and CSS_
+#### _Epicodus, Week 1: Git, HTML, and CSS_
 
 ## Technologies Used
 
@@ -14,7 +14,7 @@
 
 ## Description
 
-_This portfolio exhibits my proficiency using Git, HTML and CSS software developer skills._
+_This portfolio exhibits my proficiency in Git, HTML and CSS._
 
 ## Setup/Installation Requirements
 
