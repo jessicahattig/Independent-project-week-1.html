@@ -22,7 +22,7 @@ _This portfolio exhibits my proficiency using Git, HTML and CSS software develop
 * _Navigate to the directory titled "Portfolio-project"_
 * _Open the file "index.html" in your browser_
 
-Click [here] to view Github Pages (https://github.com/jessicahattig/Portfolio-project.git)
+Click [here] to view Github Pages (github.com/jessicahattig/Portfolio-project.git)
 
 ## Known Bugs
 
